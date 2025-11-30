@@ -17,9 +17,9 @@ function createGameScene(param) {
   });
 
   // --- 定数 ---
-  const TIME_LIMIT = 93;
+  const TIME_LIMIT = 300;
   const GAME_TIME_LIMIT = 300;
-  const TARGET_TILE_COUNT = 300;
+  const TARGET_TILE_COUNT = 120;
   const TILE_W = 90;
   const TILE_H = 90;
   const GRID_STEP_X = 90;
